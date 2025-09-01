@@ -1,0 +1,6 @@
+pandas
+matplotlib
+beautifulsoup4
+requests
+nltk
+streamlit
